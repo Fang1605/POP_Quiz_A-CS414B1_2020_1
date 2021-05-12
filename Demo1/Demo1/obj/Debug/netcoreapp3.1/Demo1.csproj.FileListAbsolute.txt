@@ -1,0 +1,13 @@
+F:\Winform\Demo1\Demo1\bin\Debug\netcoreapp3.1\Demo1.exe
+F:\Winform\Demo1\Demo1\bin\Debug\netcoreapp3.1\Demo1.deps.json
+F:\Winform\Demo1\Demo1\bin\Debug\netcoreapp3.1\Demo1.runtimeconfig.json
+F:\Winform\Demo1\Demo1\bin\Debug\netcoreapp3.1\Demo1.runtimeconfig.dev.json
+F:\Winform\Demo1\Demo1\bin\Debug\netcoreapp3.1\Demo1.dll
+F:\Winform\Demo1\Demo1\bin\Debug\netcoreapp3.1\Demo1.pdb
+F:\Winform\Demo1\Demo1\obj\Debug\netcoreapp3.1\Demo1.csprojAssemblyReference.cache
+F:\Winform\Demo1\Demo1\obj\Debug\netcoreapp3.1\Demo1.AssemblyInfoInputs.cache
+F:\Winform\Demo1\Demo1\obj\Debug\netcoreapp3.1\Demo1.AssemblyInfo.cs
+F:\Winform\Demo1\Demo1\obj\Debug\netcoreapp3.1\Demo1.csproj.CoreCompileInputs.cache
+F:\Winform\Demo1\Demo1\obj\Debug\netcoreapp3.1\Demo1.dll
+F:\Winform\Demo1\Demo1\obj\Debug\netcoreapp3.1\Demo1.pdb
+F:\Winform\Demo1\Demo1\obj\Debug\netcoreapp3.1\Demo1.genruntimeconfig.cache
